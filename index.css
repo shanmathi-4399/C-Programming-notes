@@ -1,0 +1,152 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+p{
+    font-size: large;
+}
+#c1{
+    height: 20px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+}
+#c2{
+    height: 20px;
+    width: 200px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: black;
+    margin-left: 50px;
+}
+#c3{
+    height: 20px;
+    width: 200px;
+    background-color: palegoldenrod;
+    border-style: solid;
+    border-color: black;
+    margin-left: 100px;
+}
+#c4{
+    height: 20px;
+    width: 200px;
+    background-color: goldenrod;
+    border-style: solid;
+    border-color: black;
+    margin-left: 150px;
+}
+#c5{
+    height: 20px;
+    width: 200px;
+    background-color: grey;
+    border-style: solid;
+    border-color: black;
+    margin-left: 200px;
+}
+#c6{
+    height: 20px;
+    width: 200px;
+    background-color: skyblue;
+    border-style: solid;
+    border-color: black;
+    margin-left: 250px;
+}
+
+#a2{
+    height: 20px;
+    width: 200px;
+    background-color: skyblue;
+    border-style: solid;
+    border-color: black;
+    margin-left: 50px;
+}
+#a3{
+    height: 20px;
+    width: 200px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: black;
+    margin-left: 100px;
+}
+#a4{
+    height: 20px;
+    width: 200px;
+    background-color: palegoldenrod;
+    border-style: solid;
+    border-color: black;
+    margin-left: 150px;
+}
+#a5{
+    height: 20px;
+    width: 200px;
+    background-color: aqua;
+    border-style: solid;
+    border-color: black;
+    margin-left: 200px;
+}
+#a6{
+    height: 20px;
+    width: 200px;
+    background-color: goldenrod;
+    border-style: solid;
+    border-color: black;
+    margin-left: 250px;
+}
+#b2{
+    height: 20px;
+    width: 200px;
+    background-color: skyblue;
+    border-style: solid;
+    border-color: black;
+    margin-left: 100px;
+}
+#b3{
+    height: 20px;
+    width: 200px;
+    background-color: gold;
+    border-style: solid;
+    border-color: black;
+    margin-left: 150px;
+}
+#d4{
+    height: 20px;
+    width: 200px;
+    background-color: skyblue;
+    border-style: solid;
+    border-color: black;
+    margin-left: 100px;
+}
+#d5{
+    height: 20px;
+    width: 200px;
+    background-color: goldenrod;
+    border-style: solid;
+    border-color: black;
+    margin-left: 150px;
+}
+#d6{
+    height: 20px;
+    width: 200px;
+    background-color: greenyellow;
+    border-style: solid;
+    border-color: black;
+    margin-left: 250px;
+}
+#z1{
+    
+        height: 100px;
+        width: 100px;
+        background-image: url("sj.jpeg");
+        background-size: cover;
+        border-style: solid;
+        border-color: black;
+        margin-left: 700px;
+    }
+body{
+    background-image: url("img1.jpg");
+    background-size: cover;
+   
+}
